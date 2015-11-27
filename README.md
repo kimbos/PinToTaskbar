@@ -6,4 +6,5 @@ Usage:
   Valid actions are: PinTaskbar, UnpinTaskbar, PinStart, UnpinStart
 
 
+
 The example package pin chrome, firefox, word2016 & excel2016 at first logon for all user. 
