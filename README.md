@@ -1,3 +1,5 @@
+Shouldn't be necassary since Windows 10 1603. See: https://docs.microsoft.com/en-us/windows/configuration/configure-windows-10-taskbar
+
 # PinToTaskbar
 Usage: 
   
